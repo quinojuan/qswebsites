@@ -337,15 +337,15 @@ p {
     font-size: 6rem;
     margin-top: -20px;
     text-align: center;
-}
-.para {
-  font-size: 55px;
-}
+  }
+  .para {
+    font-size: 55px;
+  }
 
-.crecer {
-  font-size: 6rem;
-  text-align: center;
-}
+  .crecer {
+    font-size: 6rem;
+    text-align: center;
+  }
   .logo {
     width: 300px;
   }
@@ -355,6 +355,7 @@ p {
   }
   .contacto {
     width: auto;
+    height: 160px;
   }
   .contenedorCard,
   .login-box {
