@@ -359,6 +359,9 @@ p {
   }
   .title h3 {
     font-size: 3rem;
+    background-color: #f22556;
+    color: #171717;
+    text-align: center;
   }
   .servicio h4 {
     font-size: 1.8rem;
