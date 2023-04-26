@@ -357,7 +357,36 @@ p {
     width: auto;
     height: 160px;
   }
-  .contenedorCard,
+  .title h3 {
+    font-size: 3rem;
+  }
+  .servicio h4 {
+    font-size: 1.8rem;
+    text-align: center;
+}
+.servicio > div > p {
+  text-align: center;
+}
+
+.servicio-img {
+  margin-right: 0;
+}
+
+.servicio-img img {
+  margin: 20px auto;
+  display: block;
+}
+.servicio {
+  padding: 0;
+  border-bottom: 1px solid white;
+  display: block;
+}
+
+.contenedorCard {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 0;
+}
   .login-box {
     display: none;
   }
