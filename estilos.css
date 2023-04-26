@@ -385,7 +385,7 @@ p {
 .contenedorCard {
   margin-left: 5%;
   margin-right: 5%;
-  margin-top: 0;
+  margin-top: 40px;
 }
   .login-box {
     display: none;
