@@ -135,6 +135,9 @@ p {
   position: absolute;
 }
 
+.arrow {
+  display: none;
+}
 /****************************************** CONTACTO ******************************************/
 
 .login-box {
@@ -346,6 +349,16 @@ p {
     font-size: 6rem;
     text-align: center;
   }
+.arrow {
+  display: block;
+}
+
+.arrow img {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
   .logo {
     width: 300px;
   }
