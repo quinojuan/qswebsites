@@ -380,7 +380,7 @@ p {
   display: block;
 }
 .servicio {
-  padding: 0;
+  padding: 20px;
   border: 1px solid white;
   display: block;
   margin-bottom: 15px;
